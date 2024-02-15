@@ -13,3 +13,29 @@ output mode:open drain stage Pull up resistor ->always use 0 or 1 Gate drain sou
 
 Pull Push Configuration(Automatic) Memory Maped : using memory to acess the I&O
 Making partion in memory with address
+_ _ _ _ _
+
+15/2/24
+
+GPTO have a memory space and address, that
+memory space is called Registers.
+UP108) 0×40020000-024002 O3FF
+All registers for IPAD A have been inside
+different address space
+but only are
+registers
+
+Registers
+
+Moder
+Otyper
+Ospeedr
+Pudr
+Idr
+Odr
+Bsrr
+Lckr
+Afrl
+Afrh
+
+
