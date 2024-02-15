@@ -27,15 +27,15 @@ registers
 
 Registers
 
-Moder
-Otyper
-Ospeedr
-Pudr
-Idr
-Odr
-Bsrr
-Lckr
-Afrl
-Afrh
+1.Moder
+2.Otyper
+3.Ospeedr
+4.Pudr
+5.Idr
+6.Odr
+7.Bsrr
+8.Lckr
+9.Afrl
+10.Afrh
 
 
