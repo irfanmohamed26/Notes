@@ -38,4 +38,109 @@ Registers
 9.Afrl
 10.Afrh
 
+MODER Register
 
+Thin the base add
+
+A
+
+base address + off set :0x00
+
+will be A (22)
+
+stari't address will be A
+
+OTYPER Reguter
+
+bare addreis + offset: 0x04
+
+inchaque by
+
+UL>onsigned long
+
+Pheripheral base 140020000 Pheripheral offret Loffred 20000 difference
+
+if both addreas
+
+ard Sarne
+
+then the
+
+(bare address
+
+offset
+
+Pheripheral Bам (periph base + AHBI periph_offlet)
+
+will beg
+
+[GPIOA-offt 0X0000UL
+
+01
+
+Number
+
+GPIOA-BASE (AHBIPERIPH-BASE + GPIO-OFFSET)
+
+when we we the (volatile unsigned int *) then we Call as address
+
+Adtheer
+
+value
+
+The value Can be accessed by POINTER
+→ GPIO A bare address will be > 0x40020000
+
+> when we know the base address of GPIOA and we know the offset 0x00 then we can know the place.
+
+MODER Register
+
+Thin the base add
+
+A
+
+base address + off set :0x00
+
+will be A (22)
+
+stari't address will be A
+
+OTYPER Reguter
+
+bare addreis + offset: 0x04
+
+inchaque by
+
+UL>onsigned long
+
+Pheripheral base 140020000 Pheripheral offret Loffred 20000 difference
+
+if both addreas
+
+ard Sarne
+
+then the
+
+(bare address
+
+offset
+
+Pheripheral Bам (periph base + AHBI periph_offlet)
+
+will beg
+
+[GPIOA-offt 0X0000UL
+
+01
+
+Number
+
+GPIOA-BASE (AHBIPERIPH-BASE + GPIO-OFFSET)
+
+when we we the (volatile unsigned int *) then we Call as address
+
+Adtheer
+
+value
+
+The value Can be accessed by POINTER.
