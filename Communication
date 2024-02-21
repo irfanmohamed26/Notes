@@ -1,0 +1,38 @@
+RAM 15 the primary storage, which is velattle.
+
+Secondary memory is non volatile, and it includes storage devices like hard drives and 150s Statie RAM (SRAM) is faster than Dynamic RAM (DRAM)
+
+DRAM 23 made up of capacitors and is volatile.
+
+Cartes is a stcroprocesser that contains only the processor. If it contains 176kll of program emory, itre called a sirscontroller
+
+The system bus is the median that connects peripherals to the processer. It has eight buses.
+
+GPIO (General Purpose Input/Output) is a peripheral that allows communication with the outside environment.
+
+The CRU knows only addition and other operations are pertarsed by the architecture. The CPU communicates with the Alll (Arithmetic Logic Unit) via the AHB (Advanced High performance Bus) at high speed,
+
+The clock speed is 180 miz GP10 pts are generally used for reading digital signals, generating interrupts, and triggering external components.
+
+ A GPIO pin's value consists of one of two voltage settings.
+
+Each to pan can be programmed individually.
+
+ A group of 10 pins joined together is called a port The instruction bus is used for sending commands to the peripherals, while the data ben is ined for transferring data
+
+Multiplexing is used to share the system bus with multiple peripherals, allowing them to communicate with the processer. Receiver/Transmitter) peripheral can be implemented using GPIO pins to provide serial
+
+ A UART (Universal Asynchronous Each GP10 pin can be configured as either an input or output buffer, depending as the state of the enahin line for input for tot
+
+In the example you provided,, GP10 has 16 pins, and pin 6 is configured as an output buffer, while pans 1 and 2 are impet buffer 1
+
+
+
+In eutput mode, the GPIO Pin can be configured to have a pull up or poll down register to stantiam the inpu be configured te open-drain state (PAI), which means that when the transistor is ON, the pis is pulled to ground.
+
+The GPIO pin can To configure the GPIO pin direction mode, you can use the MODER register. For example, 1 in the 11th bit of the register corresponds to To access the GPIO A port, you need to activate the clock. This call be done by setting the corresponding bat in the RCC (Reset and Clock Control regale
+
+
+You can cantsgure the GPIO pin to produce 2 (0 or 1), 4 (0, 1, 0, 1), or up to 1924 (2:10) different values using the corresponding bits in the
+
+ The function mode of the GPIO pin can be configured using the first & tits of the MODER register (at) You can enable or disable the pull-up or pull-down register by setting or clearing the corresponding bits in the MOCER register
