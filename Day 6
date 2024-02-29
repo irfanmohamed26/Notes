@@ -1,0 +1,14 @@
+Internal Commands:
+
+Internal commands are built-in functionalities of the shell (e.g., Bash) itself.
+These commands are executed directly by the shell without invoking an external program.
+Since they are part of the shell, they execute more quickly and efficiently than external commands.
+Examples of internal commands include cd, echo, pwd, history, alias, and exit.
+
+External Commands:
+
+External commands are standalone executable programs stored in the system's file system.
+When you execute an external command, the shell searches for the command in directories listed in the PATH environment variable.
+These commands are separate programs that run in their own processes.
+External commands may offer more advanced functionality and capabilities compared to internal commands.
+Examples of external commands include ls, grep, cat, cp, mv, rm, and mkdir.
