@@ -1,0 +1,14 @@
+28/2/24
+
+arm is in smartphones,refridgerators etc..
+it begins in 1980s
+the british computer manufacturer was in need of processor,the acorn archimedes
+they wanted processor to deliver high performance and energy efficient
+architecture- specifies how a processor behave
+it specifies -instruction set,register set,exception model,memory model,debug
+RISC-reduced instruction set computer,simple instructions,simple addressing modes,load store architecture
+micro architecture-the build and design of a processor is micro architecture
+ip core=implementation in VHDL or verilog of block of hardware logic
+profiles-application profile,real time profile,microcontroller profile
+ARM license their IP to customors
+companies other than ARM purchase architecture and implement their own design
