@@ -1,0 +1,45 @@
+GNU PROJECT/ GPL LICENSING:
+	
+	1983 -> GNU("GNU's not UNIX")
+	Started by Richard Stallman
+	GNU -> open source OS.
+	 Combines with LINUX and Kernel to form an Operating System.
+
+LINUX - Kernel:
+	
+	1991 founded by Linux Jorvalds. Version: 0.01
+	 Linux and GNU formed the first open source Operating System.
+
+Distribution in LINUX:
+	
+	Redhat -> Networking and administration
+	Ubuntu -> Embedded Systems
+	Fedora -> Education
+	Linux sugar -> Gaming
+
+LINUX - 
+		Monolithic Kernel based Os.
+		Micro Kernel based Os.
+
+Working of LINUX:
+	
+	User program / code --> Kernel mode --> Hardware
+
+LINUX Shell Command:
+	
+	Path: 
+			Relative path --  :~$cd ./d1/d2/d3  --> Current Directory
+
+			 Absolute path -- From root till the destination.
+		mkdir -- to make directory
+		cd -- to move into the directory
+		cd . -- current directory
+		cd .. -- comes out of the directory
+		rm -- remove
+		rm -rf -- recursive forcefully
+TREE:
+	To install tree and to view the directories and files in tree structure:
+
+		sudo apt-get install tree
+		 tree > tree_file
+		 vim tree_file
