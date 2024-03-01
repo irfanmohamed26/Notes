@@ -1,0 +1,17 @@
+29/2/2024
+
+process creation
+system() (library call)
+fork()
+wait()
+waitpid()
+exec()
+clone()
+fork(),wait(),waitpid(),and exec() calls the clone()
+
+-fork()that both the child and parent executes concurrently
+-A hello world program on fork, note the parent executes first, then the shell and then the child
+-that the child inherits the copy of variables of the parent
+-that both parent and child have their own copy of variables
+get PID-parent id
+get PPID-parent process id
